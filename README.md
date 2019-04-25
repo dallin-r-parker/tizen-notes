@@ -3,35 +3,36 @@
 
 ## Important Documentation/Links for Development
 - - - -
-[Samsung Developer Home Page](https://developer.samsung.com)
-[Samsung Smart TV Page](https://developer.samsung.com/tv)
-[Samsung Smart TV Specification](https://developer.samsung.com/tv/develop/specifications/general-specifications)
-[Samsung Smart TV  - Web Engine Specification](https://developer.samsung.com/tv/develop/specifications/web-engine-specifications)
-[Samsung Smart TV  - TV Model Groups](https://developer.samsung.com/tv/develop/specifications/tv-model-groups)
-[Samsung Smart TV - Product API Ref](https://developer.samsung.com/tv/develop/api-references/samsung-product-api-references/)  
-[Samsung W3C/HTML5 API Ref](https://developer.samsung.com/tv/develop/api-references/w3chtml5-api-references)
-[Samsung Smart TV - Example (Media)](https://developer.samsung.com/tv/develop/samples/media)
-[Samsung Smart TV - Legacy Platform](https://developer.samsung.com/tv/develop/samsung-legacy-platform)
-[What year is my Samsung TV?](https://www.samsung.com/uk/support/tv-audio-video/what-do-samsung-tv-model-numbers-actually-mean-why-are-they-so-long/)
-[Introduction to Web Applications | Tizen Developers](https://developer.tizen.org/development/training/web-application)
-[Tizen CLI Commands](https://developer.tizen.org/ko/development/tizen-studio/web-tools/cli?langredirect=1)
-[SDB - Smart Development Bridge CLI](https://developer.tizen.org/ko/development/tizen-studio/web-tools/running-and-testing-your-app/sdb?langredirect=1)
-[Tizen Web Device API Ref](https://developer.tizen.org/ko/development/api-references/web-application?redirect=https://developer.tizen.org/dev-guide/5.0.0/org.tizen.web.apireference/html/w3c_api/w3c_api_tv.html#media)
+- [Samsung Developer Home Page](https://developer.samsung.com)
+- [Samsung Smart TV Page](https://developer.samsung.com/tv)
+- [Samsung Smart TV Specification](https://developer.samsung.com/tv/develop/specifications/general-specifications)
+- [Samsung Smart TV  - Web Engine Specification](https://developer.samsung.com/tv/develop/specifications/web-engine-specifications)
+- [Samsung Smart TV  - TV Model Groups](https://developer.samsung.com/tv/develop/specifications/tv-model-groups)
+- [Samsung Smart TV - Product API Ref](https://developer.samsung.com/tv/develop/api-references/samsung-product-api-references/)  
+- [Samsung W3C/HTML5 API Ref](https://developer.samsung.com/tv/develop/api-references/w3chtml5-api-references)
+- [Samsung Smart TV - Example (Media)](https://developer.samsung.com/tv/develop/samples/media)
+- [Samsung Smart TV - Legacy Platform](https://developer.samsung.com/tv/develop/samsung-legacy-platform)
+- [What year is my Samsung TV?](https://www.samsung.com/uk/support/tv-audio-video/what-do-samsung-tv-model-numbers-actually-mean-why-are-they-so-long/)
+- [Introduction to Web Applications | Tizen Developers](https://developer.tizen.org/development/training/web-application)
+- [Tizen CLI Commands](https://developer.tizen.org/ko/development/tizen-studio/web-tools/cli?langredirect=1)
+- [SDB - Smart Development Bridge CLI](https://developer.tizen.org/ko/development/tizen-studio/web-tools/running-and-testing-your-app/sdb?langredirect=1)
+- [Tizen Web Device API Ref](https://developer.tizen.org/ko/development/api-references/web-application?redirect=https://developer.tizen.org/dev-guide/5.0.0/org.tizen.web.apireference/html/w3c_api/w3c_api_tv.html#media)
 
 ### Additional Resources
 - - - -
-[Ultimate Guide to Samsung Tizen TV development](https://medium.com/norigintech/the-ultimate-guide-to-samsung-tizen-tv-web-development-f4613f672368)
-[Simple Samsung TV + React Router](https://medium.com/yellowme/samsung-tv-react-react-router-tutorial-61452b7a9206)
-[Samsung Examples - Video](https://developer.samsung.com/tv/develop/samples/media)
-[Samsung Example - Voice/Media Controls](https://github.com/SamsungDForum/voice-mediacontrols/tree/master/modules/video)
-[Samsung Example - HTML5 Player](https://github.com/SamsungDForum/PlayerHTML5)
-[How to clock the screensaver during video playback](https://developer.samsung.com/tv/develop/legacy-platform-library/tec00115/index)
-[Tizen Hints, Tips, & Tricks](https://developer.youi.tv/5.0/Content/Tizen_DevTopics/H1TizenHintsTipsTricks.htm)
-[Youi.TV docs - Tizen](https://developer.youi.tv/5.1/Content/Tizen_Intro/H1TizenIntro.htm) - Not everything is relatable since we’re not using the Youi.TV engine; however, it’s good documentation.
+- [Ultimate Guide to Samsung Tizen TV development](https://medium.com/norigintech/the-ultimate-guide-to-samsung-tizen-tv-web-development-f4613f672368)
+- [Simple Samsung TV + React Router](https://medium.com/yellowme/samsung-tv-react-react-router-tutorial-61452b7a9206)
+- [Samsung Examples - Video](https://developer.samsung.com/tv/develop/samples/media)
+- [Samsung Example - Voice/Media Controls](https://github.com/SamsungDForum/voice-mediacontrols/tree/master/modules/video)
+- [Samsung Example - HTML5 Player](https://github.com/SamsungDForum/PlayerHTML5)
+- [How to clock the screensaver during video playback](https://developer.samsung.com/tv/develop/legacy-platform-library/tec00115/index)
+- [Tizen Hints, Tips, & Tricks](https://developer.youi.tv/5.0/Content/Tizen_DevTopics/H1TizenHintsTipsTricks.htm)
+- [Youi.TV docs - Tizen](https://developer.youi.tv/5.1/Content/Tizen_Intro/H1TizenIntro.htm) - Not everything is relatable since we’re not using the Youi.TV engine; however, it’s good documentation.
 
-**Samsung Account Login**
-Username: epixdevqa@gmail.com
-Password: epixqa260
+### Samsung Account Login
+- - - -
+* Username: epixdevqa@gmail.com
+* Password: epixqa260
 
 ### General questions I want to figure out 
 - - - -
